@@ -201,6 +201,12 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# Project-specific data
+data/faiss.index
+data/meta.json
+data/chunks.json
+data/*.pdf
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
